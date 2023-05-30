@@ -1,0 +1,7 @@
+To run the file, swi-prolog must be installed. Link to download: https://www.swi-prolog.org/download/stable
+
+When installing, make sure to download the jpl dependency and add SWIPL 
+to the environmental PATH for current or all users
+
+ALTERNATIVELY:
+Run the .cmd file which will force the .jar file to look for the dependency within the current directory

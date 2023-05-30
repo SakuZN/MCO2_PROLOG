@@ -1,0 +1,1 @@
+Please download the "report.pdf" file to see the research done for simple logic-based model that aims to create a Medical ChatBot.
